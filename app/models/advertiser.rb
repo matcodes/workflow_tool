@@ -1,0 +1,2 @@
+class Advertiser < User
+end

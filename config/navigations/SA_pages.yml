@@ -1,0 +1,18 @@
+default: orders_list
+pages:
+  -
+    text: Manage Orders
+    icon: user_suit
+    children:
+      -
+         text: Orders
+         component: orders_list
+         icon: user_suit
+      -
+        text: Companies
+        component: company_users_explorer
+        icon: user_suit
+  -
+    text: Users
+    component: users_list
+    icon: user_suit

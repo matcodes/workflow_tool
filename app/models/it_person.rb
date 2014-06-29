@@ -1,0 +1,2 @@
+class ItPerson < User
+end

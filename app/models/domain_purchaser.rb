@@ -1,0 +1,2 @@
+class DomainPurchaser < User
+end
